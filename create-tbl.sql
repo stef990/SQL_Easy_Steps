@@ -8,4 +8,4 @@ color TEXT
 );
 
 SHOW TABLES;
-EXPLAIN fruit
+EXPLAIN fruit;
