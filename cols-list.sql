@@ -11,3 +11,5 @@ insert into towels (color,code,name)
 values("Lilac","830/1921","Daisy");
 insert into towels (code,name)
 values("8230/7370","Star");
+select * from towels;
+
