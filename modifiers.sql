@@ -7,7 +7,7 @@ id int unique auto_increment,
 code int not null,
 name varchar(25) not null,
 qty int default 1,
-price decimal(6,2) not mull
+price decimal(6,2) not null
 );
 
 #Confirm the "products" table format.
