@@ -1,7 +1,7 @@
 #USe the "my_Database" database.
 USE my_database;
 #Create a tabke called "products" with 5 columns.
-CREATE TABLE IF NOT EXISTS producs
+CREATE TABLE IF NOT EXISTS products
 (
 id int unique auto_increment,
 code int not null,
