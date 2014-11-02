@@ -7,7 +7,7 @@ name varchar(20) not null,
 primary key(id)
 );
 insert into prints values (1,"624/1636","Lower Manhattan");
-insert into print values (2,"624/1904","Hill Town");
-insert into print values (3,"624/1681","Roscoff Trawlers");
+insert into prints values (2,"624/1904","Hill Town");
+insert into prints values (3,"624/1681","Roscoff Trawlers");
 select * from prints;
 drop table prints;
