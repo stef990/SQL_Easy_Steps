@@ -2,7 +2,7 @@ use my_database;
 create table towels
 (
 code varchar(8) not null primary key,
-name varchar(20) not full,
+name varchar(20) not null,
 color varchar(20) default "White"
 );
 insert into towels (code,name,color)
