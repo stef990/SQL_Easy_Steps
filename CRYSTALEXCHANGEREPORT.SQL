@@ -1,4 +1,3 @@
-SQL Statement which produced this data:	
   SELECT   DISTINCT aaea.*	
                    	aa.account_desc
                    	aa.account_trading_status
